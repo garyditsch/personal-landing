@@ -1,0 +1,21 @@
+.demo-card-square.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.demo-card-square > .mdl-card__title1 {
+  color: #fff;
+  background:
+    url('assets/gary-brickbackground-small-320w.jpg') bottom right 15% no-repeat #46B6AC;
+}
+
+.demo-card-square > .mdl-card__title2 {
+  color: #fff;
+  background:
+    url('assets/ebc-gary-320w.jpg') bottom right 15% no-repeat #46B6AC;
+}
+
+.demo-card-square > .mdl-card__title3 {
+  color: #fff;
+  background:
+    url('assets/gary-smokeys-320w.jpg') bottom right 15% no-repeat #46B6AC;
+}
