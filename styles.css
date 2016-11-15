@@ -1,11 +1,15 @@
 .demo-card-square.mdl-card {
-  width: 320px;
+  width: 80%;
   height: 320px;
 }
 .demo-card-square > .mdl-card__title1 {
   color: #fff;
   background:
     url('assets/gary-brickbackground-small-320w.jpg') bottom right 15% no-repeat #46B6AC;
+}
+
+.demo-card-square > img {
+  width: 100%;
 }
 
 .demo-card-square > .mdl-card__title2 {
@@ -21,11 +25,11 @@
 }
 
 .demo-card-wide.mdl-card {
-  width: 725px;
+  width: 100%;
 }
 .demo-card-wide > .mdl-card__title {
   color: #000;
-  height: 125px;
+  height: 175px;
   background: url('assets/ohio-state-huskers.jpg') center / cover;
 }
 .demo-card-wide > .mdl-card__menu {
