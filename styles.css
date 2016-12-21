@@ -1,3 +1,6 @@
 body {
   background-color: #efefef;
+  background-image: url('assets/gary_pikes_peak.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
