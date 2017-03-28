@@ -4,3 +4,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+.work-card {
+    margin: 20px;
+}
